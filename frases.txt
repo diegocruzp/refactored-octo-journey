@@ -1,3 +1,4 @@
 Testando git
 adicionando nova linha
 adicionando outra linha
+adicionando linha 4
